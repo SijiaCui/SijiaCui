@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sijia Cui (崔斯佳)
 
-![My Photo](trasccc.jpg)  <!-- 这里换成你照片的真实路径或链接 -->
+<!-- ![My Photo](trasccc.jpg) -->
 
 🎓 I'm a third-year Ph.D. student at the **Institute of Automation, Chinese Academy of Sciences**.  
 🔬 My research interests lie in:
