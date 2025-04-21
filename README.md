@@ -1,16 +1,43 @@
-## Hi there 👋
+## Hi there 👋 I'm Sijia Cui (崔斯佳)
 
-<!--
-**SijiaCui/SijiaCui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a third-year Ph.D. student at the **Institute of Automation, Chinese Academy of Sciences**.  
+🔬 My research interests lie in:
+- Large Language Models (LLMs)
+- Reinforcement Learning (RL)
+- Natural Language Processing (NLP)
 
-Here are some ideas to get you started:
+🧠 I'm passionate about pushing the boundaries of AI and language understanding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+- **Languages**: Python, C, C++, Java
+- **Frameworks**: PyTorch, NumPy, Transformers
+- **Tools**: Git, Linux, VS Code, Jupyter
+
+---
+
+### 🌱 Currently Learning
+- Advanced techniques in RLHF
+- Efficient fine-tuning for large models
+- Prompt engineering and model alignment
+
+---
+
+### ❤️ Hobbies & Interests
+- ⚽ Football
+- 🏋️‍♂️ Fitness & Gym
+- 🏊 Swimming
+- 🏸 Badminton
+- 🌍 Traveling
+- 📷 Photography
+
+---
+
+### 📫 Get in Touch
+📧 Email: [cuisijia2022@ia.ac.cn](mailto:cuisijia2022@ia.ac.cn)
+
+---
+
+> “Stay hungry, stay foolish.” – Steve Jobs
