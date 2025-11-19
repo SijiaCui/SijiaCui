@@ -2,7 +2,7 @@
 
 <!-- ![My Photo](trasccc.jpg) -->
 
-🎓 I'm a third-year Ph.D. student at the **Institute of Automation, Chinese Academy of Sciences**.  
+🎓 I'm a fourth-year Ph.D. student at the **Institute of Automation, Chinese Academy of Sciences**.  
 🔬 My research interests lie in:
 - Large Language Models (LLMs)
 - Reinforcement Learning (RL)
@@ -23,17 +23,6 @@
 ### 🌱 Currently Learning
 - Advanced techniques in RLHF
 - Efficient fine-tuning for large models
-- Prompt engineering and model alignment
-
----
-
-### ❤️ Hobbies & Interests
-- ⚽ Football
-- 🏋️‍♂️ Fitness & Gym
-- 🏊 Swimming
-- 🏸 Badminton
-- 🌍 Traveling
-- 📷 Photography
 
 ---
 
