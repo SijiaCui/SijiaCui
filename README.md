@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
 
-<img src="avatar.png" width="150" alt="Sijia Cui" />
+<!-- <img src="avatar.png" width="150" alt="Sijia Cui" /> -->
 
 # Sijia Cui (崔斯佳)
 
@@ -25,6 +25,8 @@ I work on making large models **reason and act better through post-training**. M
 
 Currently focused on **RL post-training at scale** — building unified reward systems, multi-teacher on-policy distillation, and data recycling pipelines for large-scale LLMs.
 
+Most recently a research intern in the **RLHF team at [Qwen](https://github.com/Qwen-Applications) (Alibaba)**, led by [Pengyu Cheng](https://github.com/Linear95), working on **agentic & RL training of LLMs** — contrastive RLVR, LLM self-play, and multi-teacher OPD. Previously at **[Zhipu AI](https://github.com/zai-org)**, building real-user function-calling benchmarks and agent post-training with VERL.
+
 ---
 
 ## 🔬 Research Interests
@@ -33,12 +35,6 @@ Currently focused on **RL post-training at scale** — building unified reward s
 - **Reinforcement Learning** — GRPO-family algorithms, sample efficiency, multi-task reward design
 - **LLM Agents** — tool use / function calling, memory, planning, multi-agent games
 - **Test-Time Reasoning** — process verification, verifier-guided sampling
-
----
-
-## 💼 Industry Experience
-
-Research intern in the **RLHF team at [Qwen](https://github.com/Qwen-Applications) (Alibaba)**, led by [Pengyu Cheng](https://github.com/Linear95), focusing on **agentic & RL training of LLMs** — contrastive RLVR, LLM Self-play, and multi-teacher OPD. Previously at **[Zhipu AI](https://github.com/zai-org)**, building real-user function-calling benchmarks and agent post-training with VERL.
 
 ---
 
@@ -74,10 +70,10 @@ Research intern in the **RLHF team at [Qwen](https://github.com/Qwen-Application
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 **📫 Open to opportunities starting 2027 — feel free to reach out.**
 
 <sub><i>"Stay hungry, stay foolish."</i></sub>
 
-</div>
+</div> -->
